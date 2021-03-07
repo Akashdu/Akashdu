@@ -1,5 +1,8 @@
 ### Hello, I'm **Akash Dubey**!! 👋
 
+![](https://komarev.com/ghpvc/?username=Akashdu&color=brightgreen&style=flat)
+
+
 
 
 

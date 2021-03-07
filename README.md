@@ -20,7 +20,7 @@
 <a href="https://instagram.com/https://www.instagram.com/akashdube299/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/akashdube299/" height="30" width="40" /></a>
 <a href="https://medium.com/@akashdube299" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@akashdube299" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@akashdube299" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@akashdube299" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/http://www.hackerearth.com/@akashdube299" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="http://www.hackerearth.com/@akashdube299" height="30" width="40" /></a>
+<a href="http://www.hackerearth.com/@akashdube299" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="http://www.hackerearth.com/@akashdube299" height="30" width="40" /></a>
 </p>
 
 ![Image](https://github-readme-stats.vercel.app/api?username=Akashdu&&show_icons=true&count_private=true&title_color=ffffff&icon_color=ffbf00&text_color=ffffff&bg_color=27363e)

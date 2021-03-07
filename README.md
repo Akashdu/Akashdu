@@ -6,7 +6,6 @@
 - 🔭 I’m currently working in one of the hottest startups -Citoto.
 - 🔭 I’m currently working on Machine Learning, Data Science, Cryptography & Communication Security
 - 🌱 I’m currently learning React and .NET.
-- 👯 I’m looking for Internship Opportunities .
 - 💬 Ask me about Flutter || Java.
 - 🕒 My Schedule - Code ➸ Commit ➸ Push ➸ Repeat
 - 😄 Pronouns: He/His.

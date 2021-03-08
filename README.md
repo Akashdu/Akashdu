@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/His.
 - ❤️ In Love with : Flutter
 - 📫 How to reach me:
- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:akashdube299@.com)](mailto:akashdube299@gmail.com) 
+    [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:akashdube299@.com)](mailto:akashdube299@gmail.com) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

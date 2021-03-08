@@ -4,9 +4,9 @@
 
 
 - 🔭 I’m currently working in one of the hottest startups -Citoto.
-- 🔭 I’m currently working on Machine Learning, Data Science, Cryptography, Communication Security, Flutter and Kotlin.
+- 🔭 I’m currently working on Machine Learning, Data Science, Cryptography & Communication Security
 - 🌱 I’m currently learning React and GraphQL with Javascript, Typescript, and Angular .
-- 💬 Ask me about Flutter || Java.
+- 💬 Ask me about Flutter || Java || Kotlin.
 - 🕒 My Schedule - Code ➸ Commit ➸ Push ➸ Repeat
 - 🤪 I bring design to reality
 - 🤫 I love to break security, that's fun, Red team CTF player

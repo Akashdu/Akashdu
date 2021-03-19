@@ -13,8 +13,7 @@
 - 🤫 I love to break security, that's fun, Red team CTF player
 - 😄 Pronouns: He/His.
 - ❤️ In Love with : Flutter
-- 📫 How to reach me:
-    [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:akashdube299@.com)](mailto:akashdube299@gmail.com) 
+- 📫 How to reach me:[email](mailto:akashdube299@gmail.com), [LinkedIn](www.linkedin.com/in/akash-dubey-1153b4195) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

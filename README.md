@@ -3,7 +3,6 @@
 
 
 
-- 🔭 I’m currently working in one of the hottest startups -Citoto.
 - 🔭 I’m currently working on Machine Learning, Data Science, Cryptography & Communication Security
 - 🌱 I’m currently learning React and GraphQL with Javascript, Typescript, and Angular .
 - 👯 I’m looking to collaborate on Different kinds of Software Projects

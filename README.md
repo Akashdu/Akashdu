@@ -12,7 +12,8 @@
 - 🤫 I love to break security, that's fun, Red team CTF player
 - 😄 Pronouns: He/His.
 - ❤️ In Love with : Flutter
-- 📫 How to reach me: [Twitter](https://twitter.com/AkashDu12238127), [LinkedIn](https://www.linkedin.com/in/akash-dubey-1153b4195/) 
+- 📫 How to reach me: [Twitter](https://twitter.com/AkashDu12238127), [LinkedIn](https://www.linkedin.com/in/akash-dubey-1153b4195/)
+- ## My Repos are Below👇 ![Profile View Counter](https://komarev.com/ghpvc/?username=Akashdu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
